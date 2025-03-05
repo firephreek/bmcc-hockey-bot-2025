@@ -1,6 +1,25 @@
 # Overview
 
+## Project Layout
+   - TBD
+
+## Modules
+  - TBD
+
+## Building
+  - TBD
+
+## Testing
+ - TBD
+
 ### Committing Code
+   If you've never used `git` before, [this](https://www.atlassian.com/git/tutorials/what-is-version-control) is a good place to start.
+
+#### tldr; or 'I've used git before'
+   Remember:
+   - **Never** commit directly to `main`
+   - Use pull requests whenever possible
+   - Remember to update/rebase your branch before pushing commits
 
 To maintain a clean and stable codebase, follow these best practices when committing code:
 
